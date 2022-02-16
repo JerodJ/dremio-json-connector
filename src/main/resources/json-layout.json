@@ -1,0 +1,24 @@
+{
+  "sourceType": "JSONARP",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "JSON Source",
+            "layout": "row",
+            "elements": [
+                {
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
